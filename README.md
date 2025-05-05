@@ -8,9 +8,4 @@
 
 ---
 
-💡 **Outside of academics:**
-- 🏋️‍♂️ Weight-lifting
-- 🌱 Gardening
-- 🥾 Hiking in the Bay Area
-
 Feel free to explore my GitHub to learn more about my projects!
